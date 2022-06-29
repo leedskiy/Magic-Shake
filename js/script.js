@@ -642,7 +642,7 @@ function end() {
                               HAS ANYONE EXPECTED THIS FIGHT? I still can believe… IT WAS 
                               SOOOOO INCREDIBLE! How many unique spells were used?? I’m sure 
                               there were a lot... Does anyone know their level? Finally we 
-                              know the name of the best wizard in the world….. It’s me 
+                              have the name of the best wizard in the world….. It’s me 
                               actually. However, this fight wasn’t so bad. ^w^`
       })
    }
