@@ -1,0 +1,16 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <g>
+    <path d="M188.69,323.12c152.17,54.47,143.92-104.51,143.92-104.51L348,236.33l-3.83,51.75s-16.25,50.7-37.36,54.45c0,0-35.43,23.66-49.7,18.21l-32.68-4.95Z" fill="#919191" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M278.83,140.84,152.67,224.55S140.35,333.5,223.58,359c41.62,12.77,73.22-3.78,90.39-18.21,13.91-11.68,23.49-21.45,30.59-44.6C355.92,259.23,362,157.84,278.83,140.84ZM294.05,338.1c-10.63,5.32-42.48,23.46-90.67-10.23-30.21-21.13,43.87-31.64,71.1-48.66,45.56-28.48,47.22-51.86,53.82-57.56C346,206.35,343.5,313.36,294.05,338.1Z" fill="#a3a3a3" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M317.86,208.89,200.31,284.11a8.07,8.07,0,0,1-11.18-2.49l-39-61.76a8.07,8.07,0,0,1,2.64-11.22L270,137.57a8.07,8.07,0,0,1,10.86,2.35l39.33,57.61A8.07,8.07,0,0,1,317.86,208.89Z" fill="#39ff14" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <polyline points="276.09 136.63 232.28 190.11 320.72 203.77" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <g>
+      <line x1="232.28" y1="190.11" x2="194.73" y2="285.28" fill="#ff142a" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="267.26" y1="241.27" x2="232.28" y2="190.11" fill="#ff142a" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M232.28,190.11l-16.55-19.64L152,209.22a7.54,7.54,0,0,0-2.73,4.08.16.16,0,0,0,.19.2l82.87-23.39" fill="#ff142a" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <polyline points="300.7 169 232.28 190.11 164.88 243.19" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M235.24,233.27s-30.3,25.69-36-5.1" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+    <path d="M260.57,168.4c1.06-5.77,5.61-21.83-17.88-2.82" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+</svg>

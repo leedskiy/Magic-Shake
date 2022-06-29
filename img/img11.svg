@@ -1,0 +1,30 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <g>
+    <rect x="330.07" y="385.25" width="7.33" height="21.11" rx="1.79" fill="#39ff14" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <g>
+      <path d="M164.06,180.16c-29.44-6.08-31.37-49.18-31.1-64.77a1.3,1.3,0,0,1,2.48-.49Z" fill="#a47449" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path d="M172.47,185.94c15.49-66.09-12.88-81.65-21.42-84.77a1.29,1.29,0,0,0-1.7,1.56Z" fill="#a47449" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <circle cx="169.89" cy="148.04" r="35.23" fill="red" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+      <path d="M179.68,181.87a34.89,34.89,0,0,0,15.88-9.71,1.3,1.3,0,0,0,.23-1.41l-4.45-10.06-6.44-14.54a1.29,1.29,0,0,1,2-1.52l16.47,13.6.19.17h0L192.35,131a1.3,1.3,0,0,1,1.86-1.61q2.34,1.43,4.44,2.91a1.29,1.29,0,0,0,1.87-1.69,35.25,35.25,0,0,0-14.83-14.06l-20-47.26a1.29,1.29,0,0,1,2.11-1.42c16,16.14,67.41,72.61,58,122.8a3.25,3.25,0,0,0,.87,2.91L440.34,407.34a6.84,6.84,0,0,1,0,9.69l-13.49,13.49a6.86,6.86,0,0,1-9.69,0L201.26,214.61h0c-15-3.11-106-24.29-121-84.83a1.29,1.29,0,0,1,2.2-1.19c9.43,10.3,38.12,39.61,65.69,47.2a35.07,35.07,0,0,0,14.46,6.73,1.3,1.3,0,0,0,1.39-1.93,18.94,18.94,0,0,1-1.41-3c-2.29-6.13-1.94-13.24-1.39-17.59a1.29,1.29,0,0,1,2.45-.4l7.82,16.33L173,179l.94,2a2.67,2.67,0,0,0,3,1.47Z" fill="#a47449" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <path d="M284.17,251.13c-5.73-5.73-16.49-4.25-24.05,3.31s-9,18.32-3.31,24.05c2.84,2.84,6.92,3.91,11.23,3.34" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M287.3,254.29c-5.73-5.73-16.5-4.25-24.05,3.31s-9,18.33-3.31,24c2.84,2.84,6.92,3.91,11.23,3.34" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M358.45,325.46c-5.73-5.73-16.49-4.25-24.05,3.31s-9,18.33-3.31,24.05c2.84,2.84,6.92,3.91,11.23,3.34" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <circle cx="263.03" cy="281.34" r="1.86" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <circle cx="258.31" cy="280.12" r="1.86" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <circle cx="333.73" cy="354.45" r="1.86" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <circle cx="266.32" cy="285.14" r="1.86" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="258.31" y1="281.34" x2="258.31" y2="311.8" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <circle cx="258.31" cy="314.91" r="5.37" fill="#39ff14" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="263.03" y1="281.98" x2="263.03" y2="313.97" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="252.31" y1="314.91" x2="263.03" y2="314.91" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="266.74" y1="285.43" x2="266.74" y2="330.38" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="333.73" y1="356.31" x2="333.73" y2="385.51" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <circle cx="263.03" cy="320.28" r="5.37" fill="#39ff14" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <circle cx="266.74" cy="335.15" r="5.37" fill="#39ff14" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="261.37" y1="335.15" x2="272.1" y2="335.15" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="330.07" y1="389.72" x2="337.4" y2="389.72" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="257.67" y1="319.97" x2="268.4" y2="319.97" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M156.49,123.78c14.91-7.44,24.79-1.5,29.89,2.56" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+</svg>
