@@ -115,6 +115,11 @@ body{
   display: block;
 }
 
+.blink-draw{
+  background-color: #000000;
+  display: block;
+}
+
 /* ---background------------------------------------------------------- */
 
 .background{
@@ -342,6 +347,7 @@ body{
   animation-iteration-count: infinite;
   animation-delay: 3s;
   transition: box-shadow 0.3s, transform 0.3s;
+  cursor: pointer;
 }
 
 .players-weapon__square:last-child{
