@@ -14,44 +14,47 @@ const playersHPImgs = document.querySelectorAll('.players-hp__img');
 const wizardsHPImgs = document.querySelectorAll('.wizards-hp__img');
 const comments = document.querySelectorAll('.comments__text');
 
+
 let rounds = 0;
 let victories = 0;
 let defeats = 0;
 let winner;
 let loser;
+let value;
+let randomWeaponValue = 0;
 
 function randomWeapon() {
-   let value = Math.floor(Math.random() * 3) + 1;
+   value = Math.floor(Math.random() * 3) + 1;
 
    if (value === 1) {
-      return 'stick';
+      randomWeaponValue = 'stick';
    }
 
    else if (value === 2) {
-      return 'ring';
+      randomWeaponValue = 'ring';
    }
 
    else if (value === 3) {
-      return 'medallion';
+      randomWeaponValue = 'medallion';
    }
 }
 
 function wizardChoose() {
    randomWeapon();
 
-   if (randomWeapon() === 'stick') {
+   if (randomWeaponValue === 'stick') {
       wizardsSquareImg.innerHTML = '<img src="img/img11.svg" alt="Stick">';
       wizardsSquareName.innerHTML = 'stick';
       return 'stick';
    }
 
-   else if (randomWeapon() === 'ring') {
+   else if (randomWeaponValue === 'ring') {
       wizardsSquareImg.innerHTML = '<img src="img/img12.svg" alt="Ring">';
       wizardsSquareName.innerHTML = 'ring';
       return 'ring';
    }
 
-   else if (randomWeapon() === 'medallion') {
+   else if (randomWeaponValue === 'medallion') {
       wizardsSquareImg.innerHTML = '<img src="img/img13.svg" alt="Medallion">';
       wizardsSquareName.innerHTML = 'medallion';
       return 'medallion';
@@ -194,11 +197,20 @@ function makeBlinkGreen() {
    }, 150);
 }
 
+function makeBlinkBlack() {
+   blink.classList.add('blink-draw');
+
+   setTimeout(function () {
+      blink.classList.remove('blink-draw');
+   }, 150);
+}
+
 function playRound(playersSelection, wizardsSelection) {
    if (playersSelection === wizardsSelection) {
       loser = undefined;
       winner = undefined;
       countRounds(winner);
+      makeBlinkBlack();
       return 'Draw!';
    }
 
