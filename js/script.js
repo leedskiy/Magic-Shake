@@ -441,7 +441,7 @@ function changeComments(result, playersSelection) {
       comments.forEach((comment) => {
          comment.innerHTML = `Hey! Hey! Shhhhh… Hope Wizard doesn’t hear us… I know it’s not fair 
                               and I mustn’t intervene in your fight but… Next time Wizard will use 
-                              ${randomWeapon()}… You haven’t heard anything. ^_^`
+                              ${randomWeaponValue}… You haven’t heard anything. ^_^`
       })
    }
 
