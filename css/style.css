@@ -146,6 +146,7 @@ body{
 
 .header {
   border-bottom: 2px solid #FF142A;
+  background-color: #ffffff;
   width: 100%;
   left: 0;
   top: 0;
@@ -329,7 +330,7 @@ body{
 }
 
 .square{
-  border: 2px solid #000;
+  border: 2px solid #000000;
   border-radius: 20px;
   padding: 0 10px;
   display: flex;
@@ -337,6 +338,7 @@ body{
   align-items: center;
   /* height: 217px; */
   width: 194px;
+  background-color: #ffffff;
 }
 
 .players-weapon__square {
@@ -703,6 +705,7 @@ body{
   width: 547px;
   height: 163px;
   padding: 10px;
+  background-color: #ffffff;
 }
 
 .comments__text {
@@ -932,6 +935,7 @@ body{
 
 .footer {
   border-top: 2px solid #39FF14;
+  background-color: #ffffff;
 }
 
 .footer__container {
